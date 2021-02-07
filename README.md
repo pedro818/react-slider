@@ -1,1 +1,1 @@
-Es un proyecto realizado en React.js el cual va mostrando los diferentes comentarios de las personas.
+Es un proyecto realizado en React.js el cual va mostrando los diferentes comentarios de las personas. Mencionados comentarios estan almecenados en un data.js conjuntamente con el nombre de la persona, imagen y jerarquia.
